@@ -1,0 +1,21 @@
+
+/*
+styling the main div with some padding margin aand color
+*/
+#maindiv{
+    background-color: azure;
+    width: 500px;
+    height: 200px;
+    border: 2px solid orange;
+    padding: 10px;
+    margin: 10% 31% 10%;
+}
+/*
+Styling the result div
+*/
+div #result{
+    color: brown;
+    font-family: monospace;
+    font-size: 15px;
+    font-weight: bold;
+}
